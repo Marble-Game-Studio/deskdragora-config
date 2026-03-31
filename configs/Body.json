@@ -3,17 +3,17 @@
   "items": [
     {
       "id": "Body_001",
-      "cost": 1,
+      "cost": 10,
       "type": 3
     },
     {
       "id": "Body_002",
-      "cost": 2,
+      "cost": 20,
       "type": 3
     },
     {
       "id": "Body_003",
-      "cost": 3,
+      "cost": 30,
       "type": 3
     }
   ]
