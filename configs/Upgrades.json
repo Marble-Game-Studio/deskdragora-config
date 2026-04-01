@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "id": "Absortion",
+      "cost": 5,
+      "type": 3
+    },
+    {
+      "id": "Speed",
+      "cost": 3,
+      "type": 3
+    },
+    {
+      "id": "Max Saturation",
+      "cost": 2,
+      "type": 3
+    },
+    {
+      "id": "Regeneration",
+      "cost": 1,
+      "type": 3
+    }
+  ]
+}
