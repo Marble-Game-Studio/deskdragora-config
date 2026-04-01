@@ -1,0 +1,60 @@
+{
+  "Upgrades": [
+    {
+      "Key": "Absortion",
+      "Comment": null,
+      "Type": "composite",
+      "Base": 5,
+      "Ratio": 1.15,
+      "Flat": 1.2,
+      "Initial": 10
+    },
+    {
+      "Key": "Speed",
+      "Comment": null,
+      "Type": "composite",
+      "Base": 3,
+      "Ratio": 1.15,
+      "Flat": 1.1,
+      "Initial": 10
+    },
+    {
+      "Key": "MaxSaturation",
+      "Comment": null,
+      "Type": "composite",
+      "Base": 2,
+      "Ratio": 1.12,
+      "Flat": 1.1,
+      "Initial": 10
+    },
+    {
+      "Key": "Regeneration",
+      "Comment": null,
+      "Type": "composite",
+      "Base": 1,
+      "Ratio": 1.12,
+      "Flat": 1,
+      "Initial": 10
+    }
+  ],
+  "Body": [
+    {
+      "Key": "Body_001",
+      "Comment": null,
+      "Asset": "CellImage",
+      "Cost": 4
+    },
+    {
+      "Key": "Body_002",
+      "Comment": null,
+      "Asset": "CellImage",
+      "Cost": 8
+    },
+    {
+      "Key": "Body_003",
+      "Comment": null,
+      "Asset": "CellImage",
+      "Cost": 12
+    }
+  ]
+}
