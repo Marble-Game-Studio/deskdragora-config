@@ -42,19 +42,19 @@
       "Key": "Body_001",
       "Comment": null,
       "Asset": "CellImage",
-      "Cost": 4
+      "Cost": 1
     },
     {
       "Key": "Body_002",
       "Comment": null,
       "Asset": "CellImage",
-      "Cost": 8
+      "Cost": 2
     },
     {
       "Key": "Body_003",
       "Comment": null,
       "Asset": "CellImage",
-      "Cost": 12
+      "Cost": 3
     }
   ]
 }
