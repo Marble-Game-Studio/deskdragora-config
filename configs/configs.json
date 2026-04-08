@@ -64,6 +64,12 @@
       "Comment": null,
       "Asset": "CellImage",
       "Cost": 3
+    },
+    {
+      "Key": "Body_004",
+      "Comment": null,
+      "Asset": null,
+      "Cost": 1
     }
   ]
 }
