@@ -40,9 +40,9 @@
       "Key": "ABORTION",
       "Comment": null,
       "Type": null,
-      "Base": 1,
-      "Ratio": 0.01,
-      "Flat": 0,
+      "Base": null,
+      "Ratio": null,
+      "Flat": null,
       "Initial": null
     }
   ],
