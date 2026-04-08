@@ -35,6 +35,15 @@
       "Ratio": 1.12,
       "Flat": 1,
       "Initial": 10
+    },
+    {
+      "Key": "ABORTION",
+      "Comment": null,
+      "Type": null,
+      "Base": 1,
+      "Ratio": 0.01,
+      "Flat": 0,
+      "Initial": null
     }
   ],
   "Body": [
