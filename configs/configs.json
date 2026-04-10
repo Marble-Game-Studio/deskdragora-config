@@ -36,17 +36,17 @@
   "Body": [
     {
       "Id": "Body_001",
-      "Cost": 1,
+      "Cost": 9,
       "type": 4
     },
     {
       "Id": "Body_002",
-      "Cost": 6,
+      "Cost": 8,
       "type": 4
     },
     {
       "Id": "Body_003",
-      "Cost": 3,
+      "Cost": 7,
       "type": 4
     }
   ]
