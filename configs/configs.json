@@ -17,7 +17,7 @@
       "Initial": -486
     },
     {
-      "Id": "MaxSaturation",
+      "Id": "Saturation",
       "Type": "composite",
       "Base": 459.408,
       "Ratio": 1.078,
