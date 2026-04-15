@@ -1,7 +1,7 @@
 {
   "Upgrades": [
     {
-      "Id": "Absortion",
+      "Id": "Absorption",
       "Type": "composite",
       "Base": 5,
       "Ratio": 1.15,
