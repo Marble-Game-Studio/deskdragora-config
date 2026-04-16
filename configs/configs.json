@@ -35,17 +35,17 @@
   ],
   "Body": [
     {
-      "Id": "Body_001",
+      "Id": "Skin_001",
       "Cost": 9,
       "type": 4
     },
     {
-      "Id": "Body_002",
+      "Id": "Skin_002",
       "Cost": 8,
       "type": 4
     },
     {
-      "Id": "Body_003",
+      "Id": "Skin_003",
       "Cost": 1,
       "type": 4
     }
