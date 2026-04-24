@@ -31,6 +31,14 @@
       "Ratio": 1.078,
       "Flat": 1,
       "Initial": -486
+    },
+    {
+      "Id": "Level Up",
+      "Type": "composite",
+      "Base": null,
+      "Ratio": null,
+      "Flat": null,
+      "Initial": null
     }
   ],
   "Body": [
