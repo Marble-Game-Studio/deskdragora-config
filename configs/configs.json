@@ -33,7 +33,7 @@
       "Initial": -486
     },
     {
-      "Id": "Level Up",
+      "Id": "Level",
       "Type": "composite",
       "Base": 1330,
       "Ratio": 1.078,
