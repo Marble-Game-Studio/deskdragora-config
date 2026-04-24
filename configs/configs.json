@@ -35,10 +35,10 @@
     {
       "Id": "Level Up",
       "Type": "composite",
-      "Base": 0,
-      "Ratio": 1.08,
-      "Flat": null,
-      "Initial": null
+      "Base": 1330,
+      "Ratio": 1.078,
+      "Flat": 49,
+      "Initial": -1443
     }
   ],
   "Body": [
