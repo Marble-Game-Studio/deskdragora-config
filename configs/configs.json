@@ -44,17 +44,17 @@
   "Body": [
     {
       "Id": "Skin_001",
-      "Cost": 9,
+      "Cost": 0,
       "type": 4
     },
     {
       "Id": "Skin_002",
-      "Cost": 8,
+      "Cost": 0,
       "type": 4
     },
     {
       "Id": "Skin_003",
-      "Cost": 2,
+      "Cost": 0,
       "type": 4
     }
   ]
