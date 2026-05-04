@@ -203,13 +203,13 @@
   ],
   "Ornaments": [
     {
-      "Id": "Decoration_001",
+      "Id": "Ornament_001",
       "Cost": 0,
       "Bonus": 10,
       "type": "Ornament"
     },
     {
-      "Id": "Decoration_002",
+      "Id": "Ornament_002",
       "Cost": 0,
       "Bonus": 10,
       "type": "Ornament"
