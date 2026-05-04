@@ -41,7 +41,7 @@
       "Initial": -1443
     }
   ],
-  "Skin": [
+  "Skins": [
     {
       "Id": "Skin_001",
       "Cost": 0,
@@ -61,7 +61,7 @@
       "type": "Skin"
     }
   ],
-  "Lamp": [
+  "Lamps": [
     {
       "Id": "Lamp_001",
       "Cost": 0,
@@ -83,19 +83,19 @@
     {
       "Id": "Lamp_004",
       "Cost": 0,
-      "Bonus": 130,
+      "Bonus": 150,
       "type": "Lamp"
     },
     {
       "Id": "Lamp_005",
       "Cost": 0,
-      "Bonus": 140,
+      "Bonus": 200,
       "type": "Lamp"
     },
     {
       "Id": "Lamp_006",
       "Cost": 0,
-      "Bonus": 200,
+      "Bonus": 300,
       "type": "Lamp"
     }
   ]
