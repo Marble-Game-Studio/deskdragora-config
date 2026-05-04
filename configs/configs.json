@@ -294,23 +294,23 @@
   "GameConfigs": [
     {
       "Id": "Stage2Level",
-      "Value": 10
+      "Value": 11
     },
     {
       "Id": "Stage3Level",
-      "Value": 50
+      "Value": 51
     },
     {
       "Id": "Stage4Level",
-      "Value": 100
+      "Value": 101
     },
     {
       "Id": "Stage5Level",
-      "Value": 150
+      "Value": 151
     },
     {
       "Id": "BaseTimeToZeroWater",
-      "Value": 20
+      "Value": 21
     }
   ]
 }
