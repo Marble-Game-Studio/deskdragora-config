@@ -294,23 +294,27 @@
   "GameConfigs": [
     {
       "Id": "Stage2Level",
-      "Value": 11
+      "Value": 10
     },
     {
       "Id": "Stage3Level",
-      "Value": 51
+      "Value": 50
     },
     {
       "Id": "Stage4Level",
-      "Value": 101
+      "Value": 100
     },
     {
       "Id": "Stage5Level",
-      "Value": 151
+      "Value": 150
     },
     {
       "Id": "BaseTimeToZeroWater",
-      "Value": 21
+      "Value": 20
+    },
+    {
+      "Id": "DiscordURL",
+      "Value": "https://discord.gg/P9xNkzWXU"
     }
   ]
 }
