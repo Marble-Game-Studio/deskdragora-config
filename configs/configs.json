@@ -98,5 +98,219 @@
       "Bonus": 300,
       "type": "Lamp"
     }
+  ],
+  "Desks": [
+    {
+      "Id": "Desk_001",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    },
+    {
+      "Id": "Desk_002",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    },
+    {
+      "Id": "Desk_003",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    },
+    {
+      "Id": "Desk_004",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    },
+    {
+      "Id": "Desk_005",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    },
+    {
+      "Id": "Desk_006",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    },
+    {
+      "Id": "Desk_007",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    },
+    {
+      "Id": "Desk_008",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    },
+    {
+      "Id": "Desk_009",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    },
+    {
+      "Id": "Desk_010",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    },
+    {
+      "Id": "Desk_011",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Desks"
+    }
+  ],
+  "Pots": [
+    {
+      "Id": "Pot_001",
+      "Cost": 0,
+      "Bonus": 0,
+      "type": "Pots"
+    },
+    {
+      "Id": "Pot_002",
+      "Cost": 0,
+      "Bonus": 1,
+      "type": "Pots"
+    }
+  ],
+  "Leaves": [
+    {
+      "Id": "Lamp_001",
+      "Cost": 0,
+      "Bonus": 5,
+      "type": "Leaves"
+    },
+    {
+      "Id": "Lamp_002",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Leaves"
+    },
+    {
+      "Id": "Lamp_003",
+      "Cost": 0,
+      "Bonus": 15,
+      "type": "Leaves"
+    }
+  ],
+  "Ornaments": [
+    {
+      "Id": "Decoration_001",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Ornaments"
+    },
+    {
+      "Id": "Decoration_002",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Ornaments"
+    }
+  ],
+  "Wands": [
+    {
+      "Id": "Wand_001",
+      "Cost": 0,
+      "Bonus": 10,
+      "type": "Wands"
+    },
+    {
+      "Id": "Wand_002",
+      "Cost": 0,
+      "Bonus": 15,
+      "type": "Wands"
+    },
+    {
+      "Id": "Wand_003",
+      "Cost": 0,
+      "Bonus": 20,
+      "type": "Wands"
+    },
+    {
+      "Id": "Wand_004",
+      "Cost": 0,
+      "Bonus": 25,
+      "type": "Wands"
+    },
+    {
+      "Id": "Wand_005",
+      "Cost": 0,
+      "Bonus": 30,
+      "type": "Wands"
+    },
+    {
+      "Id": "Wand_006",
+      "Cost": 0,
+      "Bonus": 35,
+      "type": "Wands"
+    }
+  ],
+  "WateringCans": [
+    {
+      "Id": "WateringCan_001",
+      "Cost": 1,
+      "Bonus": 5,
+      "type": "WateringCans"
+    },
+    {
+      "Id": "WateringCan_002",
+      "Cost": 1,
+      "Bonus": 10,
+      "type": "WateringCans"
+    },
+    {
+      "Id": "WateringCan_003",
+      "Cost": 1,
+      "Bonus": 15,
+      "type": "WateringCans"
+    },
+    {
+      "Id": "WateringCan_004",
+      "Cost": 1,
+      "Bonus": 20,
+      "type": "WateringCans"
+    },
+    {
+      "Id": "WateringCan_005",
+      "Cost": 1,
+      "Bonus": 25,
+      "type": "WateringCans"
+    },
+    {
+      "Id": "WateringCan_006",
+      "Cost": 1,
+      "Bonus": 30,
+      "type": "WateringCans"
+    }
+  ],
+  "GameConfigs": [
+    {
+      "Id": "Stage2Level",
+      "Value": 10
+    },
+    {
+      "Id": "Stage3Level",
+      "Value": 50
+    },
+    {
+      "Id": "Stage4Level",
+      "Value": 100
+    },
+    {
+      "Id": "Stage5Level",
+      "Value": 150
+    },
+    {
+      "Id": "BaseTimeToZeroWater",
+      "Value": 20
+    }
   ]
 }
