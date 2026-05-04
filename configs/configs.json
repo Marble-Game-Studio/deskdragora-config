@@ -41,21 +41,62 @@
       "Initial": -1443
     }
   ],
-  "Body": [
+  "Skin": [
     {
       "Id": "Skin_001",
       "Cost": 0,
-      "type": 4
+      "Bonus": 0.5,
+      "type": "Skin"
     },
     {
       "Id": "Skin_002",
       "Cost": 0,
-      "type": 4
+      "Bonus": 0.5,
+      "type": "Skin"
     },
     {
       "Id": "Skin_003",
       "Cost": 0,
-      "type": 4
+      "Bonus": 1,
+      "type": "Skin"
+    }
+  ],
+  "Lamp": [
+    {
+      "Id": "Lamp_001",
+      "Cost": 0,
+      "Bonus": 100,
+      "type": "Lamp"
+    },
+    {
+      "Id": "Lamp_002",
+      "Cost": 0,
+      "Bonus": 110,
+      "type": "Lamp"
+    },
+    {
+      "Id": "Lamp_003",
+      "Cost": 0,
+      "Bonus": 120,
+      "type": "Lamp"
+    },
+    {
+      "Id": "Lamp_004",
+      "Cost": 0,
+      "Bonus": 130,
+      "type": "Lamp"
+    },
+    {
+      "Id": "Lamp_005",
+      "Cost": 0,
+      "Bonus": 140,
+      "type": "Lamp"
+    },
+    {
+      "Id": "Lamp_006",
+      "Cost": 0,
+      "Bonus": 200,
+      "type": "Lamp"
     }
   ]
 }
