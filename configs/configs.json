@@ -51,13 +51,13 @@
     {
       "Id": "Skin_002",
       "Cost": 0,
-      "Bonus": 0.5,
+      "Bonus": 1,
       "type": "Skin"
     },
     {
       "Id": "Skin_003",
       "Cost": 0,
-      "Bonus": 1,
+      "Bonus": 2,
       "type": "Skin"
     }
   ],
@@ -104,67 +104,67 @@
       "Id": "Desk_001",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     },
     {
       "Id": "Desk_002",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     },
     {
       "Id": "Desk_003",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     },
     {
       "Id": "Desk_004",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     },
     {
       "Id": "Desk_005",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     },
     {
       "Id": "Desk_006",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     },
     {
       "Id": "Desk_007",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     },
     {
       "Id": "Desk_008",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     },
     {
       "Id": "Desk_009",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     },
     {
       "Id": "Desk_010",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     },
     {
       "Id": "Desk_011",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Desks"
+      "type": "Desk"
     }
   ],
   "Pots": [
@@ -172,13 +172,13 @@
       "Id": "Pot_001",
       "Cost": 0,
       "Bonus": 0,
-      "type": "Pots"
+      "type": "Pot"
     },
     {
       "Id": "Pot_002",
       "Cost": 0,
       "Bonus": 1,
-      "type": "Pots"
+      "type": "Pot"
     }
   ],
   "Leaves": [
@@ -186,19 +186,19 @@
       "Id": "Lamp_001",
       "Cost": 0,
       "Bonus": 5,
-      "type": "Leaves"
+      "type": "Leaf"
     },
     {
       "Id": "Lamp_002",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Leaves"
+      "type": "Leaf"
     },
     {
       "Id": "Lamp_003",
       "Cost": 0,
       "Bonus": 15,
-      "type": "Leaves"
+      "type": "Leaf"
     }
   ],
   "Ornaments": [
@@ -206,13 +206,13 @@
       "Id": "Decoration_001",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Ornaments"
+      "type": "Ornament"
     },
     {
       "Id": "Decoration_002",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Ornaments"
+      "type": "Ornament"
     }
   ],
   "Wands": [
@@ -220,37 +220,37 @@
       "Id": "Wand_001",
       "Cost": 0,
       "Bonus": 10,
-      "type": "Wands"
+      "type": "Wand"
     },
     {
       "Id": "Wand_002",
       "Cost": 0,
       "Bonus": 15,
-      "type": "Wands"
+      "type": "Wand"
     },
     {
       "Id": "Wand_003",
       "Cost": 0,
       "Bonus": 20,
-      "type": "Wands"
+      "type": "Wand"
     },
     {
       "Id": "Wand_004",
       "Cost": 0,
       "Bonus": 25,
-      "type": "Wands"
+      "type": "Wand"
     },
     {
       "Id": "Wand_005",
       "Cost": 0,
       "Bonus": 30,
-      "type": "Wands"
+      "type": "Wand"
     },
     {
       "Id": "Wand_006",
       "Cost": 0,
       "Bonus": 35,
-      "type": "Wands"
+      "type": "Wand"
     }
   ],
   "WateringCans": [
@@ -258,37 +258,37 @@
       "Id": "WateringCan_001",
       "Cost": 1,
       "Bonus": 5,
-      "type": "WateringCans"
+      "type": "WateringCan"
     },
     {
       "Id": "WateringCan_002",
       "Cost": 1,
       "Bonus": 10,
-      "type": "WateringCans"
+      "type": "WateringCan"
     },
     {
       "Id": "WateringCan_003",
       "Cost": 1,
       "Bonus": 15,
-      "type": "WateringCans"
+      "type": "WateringCan"
     },
     {
       "Id": "WateringCan_004",
       "Cost": 1,
       "Bonus": 20,
-      "type": "WateringCans"
+      "type": "WateringCan"
     },
     {
       "Id": "WateringCan_005",
       "Cost": 1,
       "Bonus": 25,
-      "type": "WateringCans"
+      "type": "WateringCan"
     },
     {
       "Id": "WateringCan_006",
       "Cost": 1,
       "Bonus": 30,
-      "type": "WateringCans"
+      "type": "WateringCan"
     }
   ],
   "GameConfigs": [
