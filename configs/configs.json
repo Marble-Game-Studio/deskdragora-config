@@ -315,6 +315,10 @@
     {
       "Id": "DiscordURL",
       "Value": "https://discord.gg/P9xNkzWXU"
+    },
+    {
+      "Id": "ManaBoostPercent",
+      "Value": 36000
     }
   ]
 }
