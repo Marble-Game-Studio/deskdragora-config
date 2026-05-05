@@ -327,6 +327,10 @@
     {
       "Id": "ManaBoostCooldown",
       "Value": 3
+    },
+    {
+      "Id": "TimeToFillWater",
+      "Value": 10
     }
   ]
 }
