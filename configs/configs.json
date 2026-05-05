@@ -321,7 +321,7 @@
       "Value": 3
     },
     {
-      "Id": "ManaBoostTime",
+      "Id": "ManaBoostDuration",
       "Value": 10
     }
   ]
