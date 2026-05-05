@@ -319,6 +319,10 @@
     {
       "Id": "ManaBoostPercent",
       "Value": 3
+    },
+    {
+      "Id": "ManaBoostTime",
+      "Value": 10
     }
   ]
 }
