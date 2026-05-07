@@ -39,6 +39,14 @@
       "Ratio": 1.078,
       "Flat": 49,
       "Initial": -1443
+    },
+    {
+      "Id": "Crystals",
+      "Type": "composite",
+      "Base": 0,
+      "Ratio": 1,
+      "Flat": 500,
+      "Initial": 0
     }
   ],
   "Skins": [
