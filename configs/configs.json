@@ -294,26 +294,26 @@
     },
     {
       "Id": "Leaf_004",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 0,
+      "Bonus": 20,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_005",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 0,
+      "Bonus": 25,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_006",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 0,
+      "Bonus": 30,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_007",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 0,
+      "Bonus": 35,
       "type": "Leaf"
     }
   ],
@@ -328,6 +328,174 @@
       "Id": "Ornament_002",
       "Cost": 0,
       "Bonus": 10,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_003",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_004",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_005",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_006",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_007",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_008",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_009",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_010",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_011",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_012",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_013",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_014",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_015",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_016",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_017",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_018",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_019",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_020",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_021",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_022",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_023",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_024",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_025",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_026",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_027",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_028",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_029",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Ornament"
+    },
+    {
+      "Id": "Ornament_030",
+      "Cost": null,
+      "Bonus": null,
       "type": "Ornament"
     }
   ],
