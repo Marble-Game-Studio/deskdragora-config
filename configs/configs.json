@@ -67,6 +67,18 @@
       "Cost": 0,
       "Bonus": 2,
       "type": "Skin"
+    },
+    {
+      "Id": "Skin_004",
+      "Cost": 0,
+      "Bonus": 3,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_005",
+      "Cost": 0,
+      "Bonus": 4,
+      "type": "Skin"
     }
   ],
   "Lamps": [
@@ -278,6 +290,30 @@
       "Id": "Leaf_003",
       "Cost": 0,
       "Bonus": 15,
+      "type": "Leaf"
+    },
+    {
+      "Id": "Leaf_004",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Leaf"
+    },
+    {
+      "Id": "Leaf_005",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Leaf"
+    },
+    {
+      "Id": "Leaf_006",
+      "Cost": null,
+      "Bonus": null,
+      "type": "Leaf"
+    },
+    {
+      "Id": "Leaf_007",
+      "Cost": null,
+      "Bonus": null,
       "type": "Leaf"
     }
   ],
