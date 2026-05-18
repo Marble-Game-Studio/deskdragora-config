@@ -79,6 +79,126 @@
       "Cost": 0,
       "Bonus": 4,
       "type": "Skin"
+    },
+    {
+      "Id": "Skin_006",
+      "Cost": null,
+      "Bonus": 5,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_007",
+      "Cost": null,
+      "Bonus": 6,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_008",
+      "Cost": null,
+      "Bonus": 7,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_009",
+      "Cost": null,
+      "Bonus": 8,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_010",
+      "Cost": null,
+      "Bonus": 9,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_011",
+      "Cost": null,
+      "Bonus": 10,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_012",
+      "Cost": null,
+      "Bonus": 11,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_013",
+      "Cost": null,
+      "Bonus": 12,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_014",
+      "Cost": null,
+      "Bonus": 13,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_015",
+      "Cost": null,
+      "Bonus": 14,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_016",
+      "Cost": null,
+      "Bonus": 15,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_017",
+      "Cost": null,
+      "Bonus": 16,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_018",
+      "Cost": null,
+      "Bonus": 17,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_019",
+      "Cost": null,
+      "Bonus": 18,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_020",
+      "Cost": null,
+      "Bonus": 19,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_021",
+      "Cost": null,
+      "Bonus": 20,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_022",
+      "Cost": null,
+      "Bonus": 21,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_023",
+      "Cost": null,
+      "Bonus": 22,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_024",
+      "Cost": null,
+      "Bonus": 23,
+      "type": "Skin"
+    },
+    {
+      "Id": "Skin_025",
+      "Cost": null,
+      "Bonus": 24,
+      "type": "Skin"
     }
   ],
   "Lamps": [
