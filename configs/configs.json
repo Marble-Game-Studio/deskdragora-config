@@ -19,10 +19,10 @@
     {
       "Id": "Saturation",
       "Type": "composite",
-      "Base": 459.408,
-      "Ratio": 1.078,
+      "Base": 10,
+      "Ratio": 1.7,
       "Flat": 1,
-      "Initial": -486
+      "Initial": 82
     },
     {
       "Id": "Regeneration",
