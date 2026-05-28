@@ -82,25 +82,25 @@
     },
     {
       "Id": "Skin_006",
-      "Cost": null,
+      "Cost": 1,
       "Bonus": 5,
       "type": "Skin"
     },
     {
       "Id": "Skin_007",
-      "Cost": null,
+      "Cost": 1,
       "Bonus": 6,
       "type": "Skin"
     },
     {
       "Id": "Skin_008",
-      "Cost": null,
+      "Cost": 1,
       "Bonus": 7,
       "type": "Skin"
     },
     {
       "Id": "Skin_009",
-      "Cost": null,
+      "Cost": 1,
       "Bonus": 8,
       "type": "Skin"
     },
