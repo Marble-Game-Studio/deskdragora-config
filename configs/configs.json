@@ -775,6 +775,10 @@
     {
       "Id": "SpeedFactor",
       "Value": 0.1
+    },
+    {
+      "Id": "RegenerationExponent",
+      "Value": 0.25
     }
   ]
 }
