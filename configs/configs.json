@@ -4,49 +4,49 @@
       "Id": "Absorption",
       "Type": "FactorSum",
       "Base": 100,
-      "Ratio": 0.9,
+      "Initial": 10,
       "Flat": 20,
-      "Initial": -10
+      "Ratio": 0.9
     },
     {
       "Id": "Speed",
       "Type": "FactorMultiply",
-      "Base": 459.408,
-      "Ratio": 1.078,
+      "Base": 80,
+      "Initial": -486,
       "Flat": 1,
-      "Initial": -486
+      "Ratio": 1.078
     },
     {
       "Id": "Saturation",
       "Type": "FactorSum",
-      "Base": 10,
-      "Ratio": 1.7,
+      "Base": 30,
+      "Initial": 1,
       "Flat": 1,
-      "Initial": 82
+      "Ratio": 1.7
     },
     {
       "Id": "Regeneration",
       "Type": "FactorSum",
-      "Base": 459.408,
-      "Ratio": 1.078,
+      "Base": 200,
+      "Initial": 20,
       "Flat": 1,
-      "Initial": -486
+      "Ratio": 1.078
     },
     {
       "Id": "Level",
       "Type": "composite",
       "Base": 1330,
-      "Ratio": 1.078,
+      "Initial": -1443,
       "Flat": 49,
-      "Initial": -1443
+      "Ratio": 1.078
     },
     {
       "Id": "Crystals",
       "Type": "composite",
       "Base": 0,
-      "Ratio": 1,
+      "Initial": 0,
       "Flat": 500,
-      "Initial": 0
+      "Ratio": 1
     }
   ],
   "Skins": [
