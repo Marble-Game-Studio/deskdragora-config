@@ -773,6 +773,14 @@
       "Value": 10
     },
     {
+      "Id": "BaseRecoveryTime",
+      "Value": 10
+    },
+    {
+      "Id": "BaseSaturation",
+      "Value": 5
+    },
+    {
       "Id": "SpeedFactor",
       "Value": 0.1
     },
