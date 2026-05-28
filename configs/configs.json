@@ -771,6 +771,10 @@
     {
       "Id": "TimeToFillWater",
       "Value": 10
+    },
+    {
+      "Id": "SpeedFactor",
+      "Value": 0.1
     }
   ]
 }
