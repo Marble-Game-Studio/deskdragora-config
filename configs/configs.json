@@ -2,7 +2,7 @@
   "Upgrades": [
     {
       "Id": "Absorption",
-      "Type": "composite",
+      "Type": "FactorSum",
       "Base": 100,
       "Ratio": 0.9,
       "Flat": 20,
@@ -10,7 +10,7 @@
     },
     {
       "Id": "Speed",
-      "Type": "composite",
+      "Type": "FactorMultiply",
       "Base": 459.408,
       "Ratio": 1.078,
       "Flat": 1,
@@ -18,7 +18,7 @@
     },
     {
       "Id": "Saturation",
-      "Type": "composite",
+      "Type": "FactorSum",
       "Base": 10,
       "Ratio": 1.7,
       "Flat": 1,
@@ -26,7 +26,7 @@
     },
     {
       "Id": "Regeneration",
-      "Type": "composite",
+      "Type": "FactorSum",
       "Base": 459.408,
       "Ratio": 1.078,
       "Flat": 1,
