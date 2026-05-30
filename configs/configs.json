@@ -19,7 +19,7 @@
     {
       "Id": "Saturation",
       "Type": "FactorSum",
-      "Base": 30,
+      "Base": 31,
       "Initial": 1,
       "Flat": 1,
       "Ratio": 1.7
