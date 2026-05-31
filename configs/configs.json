@@ -396,337 +396,337 @@
   "Leaves": [
     {
       "Id": "Leaf_001",
-      "Cost": 0,
+      "Cost": 5,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_002",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 5,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_003",
-      "Cost": 1,
-      "Bonus": 15,
+      "Cost": 5,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_004",
-      "Cost": 1,
-      "Bonus": 20,
+      "Cost": 10,
+      "Bonus": 10,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_005",
-      "Cost": 1,
-      "Bonus": 25,
+      "Cost": 10,
+      "Bonus": 10,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_006",
-      "Cost": 1,
-      "Bonus": 30,
+      "Cost": 10,
+      "Bonus": 10,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_007",
-      "Cost": 1,
-      "Bonus": 35,
+      "Cost": 15,
+      "Bonus": 15,
       "type": "Leaf"
     }
   ],
   "Ornaments": [
     {
       "Id": "Ornament_001",
-      "Cost": 0,
-      "Bonus": 10,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_002",
-      "Cost": 0,
-      "Bonus": 10,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_003",
-      "Cost": 1,
+      "Cost": 2,
       "Bonus": 10,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_004",
-      "Cost": 1,
+      "Cost": 2,
       "Bonus": 10,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_005",
-      "Cost": 1,
+      "Cost": 2,
       "Bonus": 10,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_006",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 3,
+      "Bonus": 15,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_007",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 3,
+      "Bonus": 15,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_008",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 3,
+      "Bonus": 15,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_009",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 4,
+      "Bonus": 20,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_010",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 4,
+      "Bonus": 20,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_011",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 4,
+      "Bonus": 20,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_012",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 5,
+      "Bonus": 25,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_013",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 5,
+      "Bonus": 25,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_014",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 5,
+      "Bonus": 25,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_015",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 6,
+      "Bonus": 30,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_016",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 6,
+      "Bonus": 30,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_017",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 6,
+      "Bonus": 30,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_018",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 6,
+      "Bonus": 30,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_019",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 8,
+      "Bonus": 35,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_020",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 8,
+      "Bonus": 35,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_021",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 9,
+      "Bonus": 40,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_022",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 9,
+      "Bonus": 40,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_023",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 9,
+      "Bonus": 40,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_024",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 10,
+      "Bonus": 45,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_025",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 10,
+      "Bonus": 45,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_026",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 10,
+      "Bonus": 45,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_027",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 12,
+      "Bonus": 50,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_028",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 12,
+      "Bonus": 50,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_029",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 15,
+      "Bonus": 50,
       "type": "Ornament"
     },
     {
       "Id": "Ornament_030",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 15,
+      "Bonus": 50,
       "type": "Ornament"
     }
   ],
   "Wands": [
     {
       "Id": "Wand_001",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 2,
+      "Bonus": 5,
       "type": "Wand"
     },
     {
       "Id": "Wand_002",
-      "Cost": 1,
-      "Bonus": 15,
+      "Cost": 4,
+      "Bonus": 10,
       "type": "Wand"
     },
     {
       "Id": "Wand_003",
-      "Cost": 1,
-      "Bonus": 20,
+      "Cost": 6,
+      "Bonus": 15,
       "type": "Wand"
     },
     {
       "Id": "Wand_004",
-      "Cost": 1,
-      "Bonus": 25,
+      "Cost": 8,
+      "Bonus": 20,
       "type": "Wand"
     },
     {
       "Id": "Wand_005",
-      "Cost": 1,
-      "Bonus": 30,
+      "Cost": 10,
+      "Bonus": 25,
       "type": "Wand"
     },
     {
       "Id": "Wand_006",
-      "Cost": 1,
-      "Bonus": 35,
+      "Cost": 12,
+      "Bonus": 30,
       "type": "Wand"
     },
     {
       "Id": "Wand_007",
-      "Cost": 1,
-      "Bonus": 40,
+      "Cost": 14,
+      "Bonus": 35,
       "type": "Wand"
     },
     {
       "Id": "Wand_008",
-      "Cost": 1,
-      "Bonus": 45,
+      "Cost": 16,
+      "Bonus": 40,
       "type": "Wand"
     },
     {
       "Id": "Wand_009",
-      "Cost": 1,
-      "Bonus": 50,
+      "Cost": 18,
+      "Bonus": 45,
       "type": "Wand"
     },
     {
       "Id": "Wand_010",
-      "Cost": 1,
-      "Bonus": 55,
+      "Cost": 20,
+      "Bonus": 50,
       "type": "Wand"
     },
     {
       "Id": "Wand_011",
-      "Cost": 1,
-      "Bonus": 60,
+      "Cost": 22,
+      "Bonus": 55,
       "type": "Wand"
     },
     {
       "Id": "Wand_012",
-      "Cost": 1,
-      "Bonus": 65,
+      "Cost": 25,
+      "Bonus": 60,
       "type": "Wand"
     }
   ],
   "WateringCans": [
     {
       "Id": "WateringCan_001",
-      "Cost": 1,
+      "Cost": 2,
       "Bonus": 5,
       "type": "WateringCan"
     },
     {
       "Id": "WateringCan_002",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 10,
       "type": "WateringCan"
     },
     {
       "Id": "WateringCan_003",
-      "Cost": 1,
+      "Cost": 6,
       "Bonus": 15,
       "type": "WateringCan"
     },
     {
       "Id": "WateringCan_004",
-      "Cost": 1,
+      "Cost": 8,
       "Bonus": 20,
       "type": "WateringCan"
     },
     {
       "Id": "WateringCan_005",
-      "Cost": 1,
+      "Cost": 10,
       "Bonus": 25,
       "type": "WateringCan"
     },
     {
       "Id": "WateringCan_006",
-      "Cost": 1,
+      "Cost": 12,
       "Bonus": 30,
       "type": "WateringCan"
     }
