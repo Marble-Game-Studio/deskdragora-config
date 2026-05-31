@@ -3,7 +3,7 @@
     {
       "Id": "Absorption",
       "Type": "FactorSum",
-      "Base": 50,
+      "Base": 40,
       "Initial": 10,
       "Flat": 20,
       "Ratio": 0.9
@@ -11,7 +11,7 @@
     {
       "Id": "Speed",
       "Type": "FactorMultiply",
-      "Base": 80,
+      "Base": 65,
       "Initial": -486,
       "Flat": 1,
       "Ratio": 1.078
@@ -19,7 +19,7 @@
     {
       "Id": "Saturation",
       "Type": "FactorSum",
-      "Base": 30,
+      "Base": 20,
       "Initial": 10,
       "Flat": 0,
       "Ratio": 1.1
@@ -27,7 +27,7 @@
     {
       "Id": "Regeneration",
       "Type": "FactorSum",
-      "Base": 120,
+      "Base": 100,
       "Initial": 20,
       "Flat": 1,
       "Ratio": 1.078
