@@ -3,7 +3,7 @@
     {
       "Id": "Absorption",
       "Type": "FactorSum",
-      "Base": 100,
+      "Base": 50,
       "Initial": 10,
       "Flat": 20,
       "Ratio": 0.9
@@ -20,9 +20,9 @@
       "Id": "Saturation",
       "Type": "FactorSum",
       "Base": 30,
-      "Initial": 10,
-      "Flat": 1,
-      "Ratio": 1.7
+      "Initial": 5,
+      "Flat": 0,
+      "Ratio": 1.1
     },
     {
       "Id": "Regeneration",
@@ -746,7 +746,7 @@
     },
     {
       "Id": "Stage5Level",
-      "Value": 150
+      "Value": 200
     },
     {
       "Id": "BaseTimeToZeroWater",
