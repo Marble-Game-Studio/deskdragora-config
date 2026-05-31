@@ -20,7 +20,7 @@
       "Id": "Saturation",
       "Type": "FactorSum",
       "Base": 30,
-      "Initial": 5,
+      "Initial": 10,
       "Flat": 0,
       "Ratio": 1.1
     },
@@ -216,25 +216,25 @@
     },
     {
       "Id": "Lamp_003",
-      "Cost": 1,
+      "Cost": 2,
       "Bonus": 120,
       "type": "Lamp"
     },
     {
       "Id": "Lamp_004",
-      "Cost": 1,
+      "Cost": 3,
       "Bonus": 150,
       "type": "Lamp"
     },
     {
       "Id": "Lamp_005",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 200,
       "type": "Lamp"
     },
     {
       "Id": "Lamp_006",
-      "Cost": 1,
+      "Cost": 5,
       "Bonus": 300,
       "type": "Lamp"
     }
@@ -243,66 +243,66 @@
     {
       "Id": "Desk_001",
       "Cost": 0,
-      "Bonus": 10,
+      "Bonus": 0,
       "type": "Desk"
     },
     {
       "Id": "Desk_002",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 2,
+      "Bonus": 5,
       "type": "Desk"
     },
     {
       "Id": "Desk_003",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 2,
+      "Bonus": 5,
       "type": "Desk"
     },
     {
       "Id": "Desk_004",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 2,
+      "Bonus": 5,
       "type": "Desk"
     },
     {
       "Id": "Desk_005",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 10,
       "type": "Desk"
     },
     {
       "Id": "Desk_006",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 10,
       "type": "Desk"
     },
     {
       "Id": "Desk_007",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 10,
       "type": "Desk"
     },
     {
       "Id": "Desk_008",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 6,
+      "Bonus": 15,
       "type": "Desk"
     },
     {
       "Id": "Desk_009",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 6,
+      "Bonus": 15,
       "type": "Desk"
     },
     {
       "Id": "Desk_010",
-      "Cost": 1,
-      "Bonus": 10,
+      "Cost": 6,
+      "Bonus": 15,
       "type": "Desk"
     },
     {
       "Id": "Desk_011",
-      "Cost": 1,
+      "Cost": 8,
       "Bonus": 20,
       "type": "Desk"
     }
