@@ -778,7 +778,7 @@
     },
     {
       "Id": "BaseSaturation",
-      "Value": 10
+      "Value": 3
     },
     {
       "Id": "SpeedFactor",
