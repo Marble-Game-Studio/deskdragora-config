@@ -438,128 +438,128 @@
     },
     {
       "Id": "Leaf_002_Stage4",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_003_Stage1",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_003_Stage2",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_003_Stage3",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_003_Stage4",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_004_Stage1",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_004_Stage2",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_004_Stage3",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_004_Stage4",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_005_Stage1",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_005_Stage2",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_005_Stage3",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_005_Stage4",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_006_Stage1",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_006_Stage2",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_006_Stage3",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_006_Stage4",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_007_Stage1",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_007_Stage2",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_007_Stage3",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_007_Stage4",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 1,
+      "Bonus": 5,
       "type": "Leaf"
     }
   ],
