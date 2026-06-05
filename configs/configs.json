@@ -19,10 +19,10 @@
     {
       "Id": "Saturation",
       "Type": "FactorSum",
-      "Base": 20,
+      "Base": 40,
       "Initial": 10,
-      "Flat": 0,
-      "Ratio": 1.1
+      "Flat": 1,
+      "Ratio": 0
     },
     {
       "Id": "Regeneration",
