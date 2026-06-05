@@ -5,7 +5,7 @@
       "Type": "FactorMultiply",
       "Base": 40,
       "Initial": 0,
-      "Flat": 20,
+      "Flat": 10,
       "Ratio": 0.9
     },
     {
@@ -13,7 +13,7 @@
       "Type": "FactorMultiply",
       "Base": 65,
       "Initial": 0,
-      "Flat": 1,
+      "Flat": 5,
       "Ratio": 1.078
     },
     {
@@ -21,7 +21,7 @@
       "Type": "FactorMultiply",
       "Base": 20,
       "Initial": 0,
-      "Flat": 1,
+      "Flat": 5,
       "Ratio": 0
     },
     {
@@ -29,7 +29,7 @@
       "Type": "FactorMultiply",
       "Base": 100,
       "Initial": 100,
-      "Flat": 1,
+      "Flat": 2,
       "Ratio": 1.078
     },
     {
