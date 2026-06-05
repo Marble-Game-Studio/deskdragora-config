@@ -35,17 +35,17 @@
     {
       "Id": "Level",
       "Type": "composite",
-      "Base": 1330,
-      "Initial": -1443,
-      "Flat": 49,
-      "Ratio": 1.078
+      "Base": 500,
+      "Initial": 0,
+      "Flat": 0,
+      "Ratio": 1.7
     },
     {
       "Id": "Crystals",
       "Type": "composite",
       "Base": 0,
       "Initial": 0,
-      "Flat": 500,
+      "Flat": 250,
       "Ratio": 0
     }
   ],
