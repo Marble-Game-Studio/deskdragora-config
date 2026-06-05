@@ -876,7 +876,7 @@
     },
     {
       "Id": "BaseTimeToZeroWater",
-      "Value": 20
+      "Value": 3
     },
     {
       "Id": "DiscordURL",
@@ -884,15 +884,15 @@
     },
     {
       "Id": "ManaBoostHours",
-      "Value": 3
+      "Value": 1
     },
     {
       "Id": "ManaBoostDuration",
-      "Value": 10
+      "Value": 5
     },
     {
       "Id": "ManaBoostCooldown",
-      "Value": 3
+      "Value": 6
     },
     {
       "Id": "TimeToFillWater",
