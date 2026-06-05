@@ -2,9 +2,9 @@
   "Upgrades": [
     {
       "Id": "Absorption",
-      "Type": "FactorSum",
+      "Type": "FactorMultiply",
       "Base": 40,
-      "Initial": 100,
+      "Initial": 0,
       "Flat": 20,
       "Ratio": 0.9
     },
@@ -12,23 +12,23 @@
       "Id": "Speed",
       "Type": "FactorMultiply",
       "Base": 65,
-      "Initial": -486,
+      "Initial": 0,
       "Flat": 1,
       "Ratio": 1.078
     },
     {
       "Id": "Saturation",
-      "Type": "FactorSum",
+      "Type": "FactorMultiply",
       "Base": 20,
-      "Initial": 70,
+      "Initial": 0,
       "Flat": 1,
       "Ratio": 0
     },
     {
       "Id": "Regeneration",
-      "Type": "FactorSum",
+      "Type": "FactorMultiply",
       "Base": 100,
-      "Initial": 20,
+      "Initial": 100,
       "Flat": 1,
       "Ratio": 1.078
     },
