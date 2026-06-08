@@ -142,61 +142,61 @@
     },
     {
       "Id": "Skin_016",
-      "Cost": 4,
+      "Cost": 5,
       "Bonus": 8,
       "type": "Skin"
     },
     {
       "Id": "Skin_017",
-      "Cost": 4,
+      "Cost": 5,
       "Bonus": 8,
       "type": "Skin"
     },
     {
       "Id": "Skin_018",
-      "Cost": 4,
+      "Cost": 5,
       "Bonus": 8,
       "type": "Skin"
     },
     {
       "Id": "Skin_019",
-      "Cost": 4,
+      "Cost": 5,
       "Bonus": 8,
       "type": "Skin"
     },
     {
       "Id": "Skin_020",
-      "Cost": 4,
+      "Cost": 5,
       "Bonus": 8,
       "type": "Skin"
     },
     {
       "Id": "Skin_021",
-      "Cost": 5,
+      "Cost": 8,
       "Bonus": 10,
       "type": "Skin"
     },
     {
       "Id": "Skin_022",
-      "Cost": 5,
+      "Cost": 8,
       "Bonus": 10,
       "type": "Skin"
     },
     {
       "Id": "Skin_023",
-      "Cost": 5,
+      "Cost": 8,
       "Bonus": 10,
       "type": "Skin"
     },
     {
       "Id": "Skin_024",
-      "Cost": 5,
+      "Cost": 8,
       "Bonus": 10,
       "type": "Skin"
     },
     {
       "Id": "Skin_025",
-      "Cost": 5,
+      "Cost": 8,
       "Bonus": 10,
       "type": "Skin"
     }
@@ -316,13 +316,13 @@
     },
     {
       "Id": "Pot_002",
-      "Cost": 3,
+      "Cost": 2,
       "Bonus": 1,
       "type": "Pot"
     },
     {
       "Id": "Pot_003",
-      "Cost": 6,
+      "Cost": 4,
       "Bonus": 1,
       "type": "Pot"
     },
