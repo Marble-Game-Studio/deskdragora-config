@@ -316,80 +316,80 @@
     },
     {
       "Id": "Pot_002",
-      "Cost": 2,
-      "Bonus": 1,
+      "Cost": 1,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_003",
-      "Cost": 4,
-      "Bonus": 1,
+      "Cost": 3,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_004",
-      "Cost": 9,
-      "Bonus": 1,
+      "Cost": 5,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_005",
-      "Cost": 12,
-      "Bonus": 1,
+      "Cost": 7,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_006",
-      "Cost": 15,
-      "Bonus": 1,
+      "Cost": 9,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_007",
-      "Cost": 18,
-      "Bonus": 1,
+      "Cost": 11,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_008",
-      "Cost": 21,
-      "Bonus": 1,
+      "Cost": 13,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_009",
-      "Cost": 24,
-      "Bonus": 1,
+      "Cost": 15,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_010",
-      "Cost": 27,
-      "Bonus": 1,
+      "Cost": 17,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_011",
-      "Cost": 30,
-      "Bonus": 1,
+      "Cost": 19,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_012",
-      "Cost": 33,
-      "Bonus": 1,
+      "Cost": 21,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_013",
-      "Cost": 36,
-      "Bonus": 1,
+      "Cost": 23,
+      "Bonus": "0,5",
       "type": "Pot"
     },
     {
       "Id": "Pot_014",
-      "Cost": 40,
-      "Bonus": 1,
+      "Cost": 25,
+      "Bonus": "0,5",
       "type": "Pot"
     }
   ],
