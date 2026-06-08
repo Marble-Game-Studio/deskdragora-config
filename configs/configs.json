@@ -389,7 +389,7 @@
     {
       "Id": "Pot_014",
       "Cost": 25,
-      "Bonus": 1,
+      "Bonus": 0.5,
       "type": "Pot"
     }
   ],
@@ -876,7 +876,7 @@
     },
     {
       "Id": "BaseTimeToZeroWater",
-      "Value": 1
+      "Value": 0.5
     },
     {
       "Id": "DiscordURL",
