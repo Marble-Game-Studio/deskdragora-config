@@ -876,7 +876,7 @@
     },
     {
       "Id": "BaseTimeToZeroWater",
-      "Value": 0.5
+      "Value": 1
     },
     {
       "Id": "DiscordURL",
