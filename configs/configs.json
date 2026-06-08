@@ -749,72 +749,72 @@
     {
       "Id": "Wand_001",
       "Cost": 0,
-      "Bonus": 1,
+      "Bonus": 0,
       "type": "Wand"
     },
     {
       "Id": "Wand_002",
-      "Cost": 1,
+      "Cost": 5,
       "Bonus": 1,
       "type": "Wand"
     },
     {
       "Id": "Wand_003",
-      "Cost": 2,
-      "Bonus": 1,
-      "type": "Wand"
-    },
-    {
-      "Id": "Wand_004",
-      "Cost": 4,
-      "Bonus": 1,
-      "type": "Wand"
-    },
-    {
-      "Id": "Wand_005",
-      "Cost": 6,
-      "Bonus": 1,
-      "type": "Wand"
-    },
-    {
-      "Id": "Wand_006",
-      "Cost": 8,
-      "Bonus": 1,
-      "type": "Wand"
-    },
-    {
-      "Id": "Wand_007",
       "Cost": 10,
       "Bonus": 1,
       "type": "Wand"
     },
     {
+      "Id": "Wand_004",
+      "Cost": 15,
+      "Bonus": 1,
+      "type": "Wand"
+    },
+    {
+      "Id": "Wand_005",
+      "Cost": 20,
+      "Bonus": 1,
+      "type": "Wand"
+    },
+    {
+      "Id": "Wand_006",
+      "Cost": 25,
+      "Bonus": 1,
+      "type": "Wand"
+    },
+    {
+      "Id": "Wand_007",
+      "Cost": 30,
+      "Bonus": 1,
+      "type": "Wand"
+    },
+    {
       "Id": "Wand_008",
-      "Cost": 12,
+      "Cost": 35,
       "Bonus": 1,
       "type": "Wand"
     },
     {
       "Id": "Wand_009",
-      "Cost": 14,
+      "Cost": 40,
       "Bonus": 1,
       "type": "Wand"
     },
     {
       "Id": "Wand_010",
-      "Cost": 16,
+      "Cost": 45,
       "Bonus": 1,
       "type": "Wand"
     },
     {
       "Id": "Wand_011",
-      "Cost": 18,
+      "Cost": 50,
       "Bonus": 1,
       "type": "Wand"
     },
     {
       "Id": "Wand_012",
-      "Cost": 20,
+      "Cost": 60,
       "Bonus": 1,
       "type": "Wand"
     }
