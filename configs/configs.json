@@ -822,38 +822,38 @@
   "WateringCans": [
     {
       "Id": "WateringCan_001",
-      "Cost": 2,
-      "Bonus": 5,
+      "Cost": 0,
+      "Bonus": 0,
       "type": "WateringCan"
     },
     {
       "Id": "WateringCan_002",
-      "Cost": 4,
+      "Cost": 5,
       "Bonus": 10,
       "type": "WateringCan"
     },
     {
       "Id": "WateringCan_003",
-      "Cost": 6,
-      "Bonus": 15,
-      "type": "WateringCan"
-    },
-    {
-      "Id": "WateringCan_004",
-      "Cost": 8,
+      "Cost": 10,
       "Bonus": 20,
       "type": "WateringCan"
     },
     {
+      "Id": "WateringCan_004",
+      "Cost": 15,
+      "Bonus": 30,
+      "type": "WateringCan"
+    },
+    {
       "Id": "WateringCan_005",
-      "Cost": 10,
-      "Bonus": 25,
+      "Cost": 20,
+      "Bonus": 40,
       "type": "WateringCan"
     },
     {
       "Id": "WateringCan_006",
-      "Cost": 12,
-      "Bonus": 30,
+      "Cost": 25,
+      "Bonus": 50,
       "type": "WateringCan"
     }
   ],
