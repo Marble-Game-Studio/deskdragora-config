@@ -59,144 +59,144 @@
     {
       "Id": "Skin_002",
       "Cost": 1,
-      "Bonus": 5,
+      "Bonus": 2,
       "type": "Skin"
     },
     {
       "Id": "Skin_003",
       "Cost": 1,
-      "Bonus": 5,
+      "Bonus": 2,
       "type": "Skin"
     },
     {
       "Id": "Skin_004",
       "Cost": 1,
-      "Bonus": 5,
+      "Bonus": 2,
       "type": "Skin"
     },
     {
       "Id": "Skin_005",
       "Cost": 1,
-      "Bonus": 5,
+      "Bonus": 2,
       "type": "Skin"
     },
     {
       "Id": "Skin_006",
-      "Cost": 1,
-      "Bonus": 5,
+      "Cost": 2,
+      "Bonus": 4,
       "type": "Skin"
     },
     {
       "Id": "Skin_007",
-      "Cost": 1,
-      "Bonus": 5,
+      "Cost": 2,
+      "Bonus": 4,
       "type": "Skin"
     },
     {
       "Id": "Skin_008",
-      "Cost": 1,
-      "Bonus": 5,
+      "Cost": 2,
+      "Bonus": 4,
       "type": "Skin"
     },
     {
       "Id": "Skin_009",
-      "Cost": 1,
-      "Bonus": 5,
+      "Cost": 2,
+      "Bonus": 4,
       "type": "Skin"
     },
     {
       "Id": "Skin_010",
-      "Cost": 1,
-      "Bonus": 5,
+      "Cost": 2,
+      "Bonus": 4,
       "type": "Skin"
     },
     {
       "Id": "Skin_011",
-      "Cost": 1,
-      "Bonus": 5,
+      "Cost": 3,
+      "Bonus": 6,
       "type": "Skin"
     },
     {
       "Id": "Skin_012",
-      "Cost": 1,
-      "Bonus": 5,
+      "Cost": 3,
+      "Bonus": 6,
       "type": "Skin"
     },
     {
       "Id": "Skin_013",
-      "Cost": 1,
-      "Bonus": 5,
+      "Cost": 3,
+      "Bonus": 6,
       "type": "Skin"
     },
     {
       "Id": "Skin_014",
-      "Cost": 1,
-      "Bonus": 5,
+      "Cost": 3,
+      "Bonus": 6,
       "type": "Skin"
     },
     {
       "Id": "Skin_015",
-      "Cost": 1,
-      "Bonus": 5,
+      "Cost": 3,
+      "Bonus": 6,
       "type": "Skin"
     },
     {
       "Id": "Skin_016",
-      "Cost": 3,
-      "Bonus": 10,
+      "Cost": 4,
+      "Bonus": 8,
       "type": "Skin"
     },
     {
       "Id": "Skin_017",
-      "Cost": 3,
-      "Bonus": 10,
+      "Cost": 4,
+      "Bonus": 8,
       "type": "Skin"
     },
     {
       "Id": "Skin_018",
-      "Cost": 3,
-      "Bonus": 10,
+      "Cost": 4,
+      "Bonus": 8,
       "type": "Skin"
     },
     {
       "Id": "Skin_019",
-      "Cost": 3,
-      "Bonus": 10,
+      "Cost": 4,
+      "Bonus": 8,
       "type": "Skin"
     },
     {
       "Id": "Skin_020",
-      "Cost": 3,
-      "Bonus": 10,
+      "Cost": 4,
+      "Bonus": 8,
       "type": "Skin"
     },
     {
       "Id": "Skin_021",
-      "Cost": 3,
+      "Cost": 5,
       "Bonus": 10,
       "type": "Skin"
     },
     {
       "Id": "Skin_022",
-      "Cost": 3,
+      "Cost": 5,
       "Bonus": 10,
       "type": "Skin"
     },
     {
       "Id": "Skin_023",
-      "Cost": 3,
+      "Cost": 5,
       "Bonus": 10,
       "type": "Skin"
     },
     {
       "Id": "Skin_024",
-      "Cost": 3,
+      "Cost": 5,
       "Bonus": 10,
       "type": "Skin"
     },
     {
       "Id": "Skin_025",
-      "Cost": 3,
+      "Cost": 5,
       "Bonus": 10,
       "type": "Skin"
     }
