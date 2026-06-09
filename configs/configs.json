@@ -253,13 +253,19 @@
       "type": "Desk"
     },
     {
-      "Id": "Desk_003",
+      "Id": "Desk_010",
       "Cost": 1,
       "Bonus": 5,
       "type": "Desk"
     },
     {
-      "Id": "Desk_004",
+      "Id": "Desk_011",
+      "Cost": 1,
+      "Bonus": 5,
+      "type": "Desk"
+    },
+    {
+      "Id": "Desk_009",
       "Cost": 2,
       "Bonus": 10,
       "type": "Desk"
@@ -271,15 +277,21 @@
       "type": "Desk"
     },
     {
-      "Id": "Desk_006",
+      "Id": "Desk_12",
       "Cost": 3,
       "Bonus": 15,
       "type": "Desk"
     },
     {
-      "Id": "Desk_007",
+      "Id": "Desk_003",
       "Cost": 3,
       "Bonus": 15,
+      "type": "Desk"
+    },
+    {
+      "Id": "Desk_006",
+      "Cost": 4,
+      "Bonus": 20,
       "type": "Desk"
     },
     {
@@ -289,27 +301,15 @@
       "type": "Desk"
     },
     {
-      "Id": "Desk_009",
-      "Cost": 4,
-      "Bonus": 20,
-      "type": "Desk"
-    },
-    {
-      "Id": "Desk_010",
+      "Id": "Desk_007",
       "Cost": 5,
       "Bonus": 25,
       "type": "Desk"
     },
     {
-      "Id": "Desk_011",
+      "Id": "Desk_004",
       "Cost": 5,
       "Bonus": 25,
-      "type": "Desk"
-    },
-    {
-      "Id": "Desk_12",
-      "Cost": 0,
-      "Bonus": 0,
       "type": "Desk"
     }
   ],
