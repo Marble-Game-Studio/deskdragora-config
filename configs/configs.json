@@ -308,8 +308,8 @@
     },
     {
       "Id": "Desk_12",
-      "Cost": null,
-      "Bonus": null,
+      "Cost": 0,
+      "Bonus": 0,
       "type": "Desk"
     }
   ],
