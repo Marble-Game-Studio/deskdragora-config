@@ -396,49 +396,49 @@
   "Leaves": [
     {
       "Id": "Leaf_001_Stage1",
-      "Cost": 5,
+      "Cost": 1,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_001_Stage2",
-      "Cost": 5,
+      "Cost": 2,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_001_Stage3",
-      "Cost": 5,
+      "Cost": 3,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_001_Stage4",
-      "Cost": 10,
+      "Cost": 4,
       "Bonus": 10,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_002_Stage1",
-      "Cost": 10,
+      "Cost": 1,
       "Bonus": 10,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_002_Stage2",
-      "Cost": 10,
+      "Cost": 2,
       "Bonus": 10,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_002_Stage3",
-      "Cost": 15,
+      "Cost": 3,
       "Bonus": 15,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_002_Stage4",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 5,
       "type": "Leaf"
     },
@@ -450,19 +450,19 @@
     },
     {
       "Id": "Leaf_003_Stage2",
-      "Cost": 1,
+      "Cost": 2,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_003_Stage3",
-      "Cost": 1,
+      "Cost": 3,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_003_Stage4",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 5,
       "type": "Leaf"
     },
@@ -474,19 +474,19 @@
     },
     {
       "Id": "Leaf_004_Stage2",
-      "Cost": 1,
+      "Cost": 2,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_004_Stage3",
-      "Cost": 1,
+      "Cost": 3,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_004_Stage4",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 5,
       "type": "Leaf"
     },
@@ -498,19 +498,19 @@
     },
     {
       "Id": "Leaf_005_Stage2",
-      "Cost": 1,
+      "Cost": 2,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_005_Stage3",
-      "Cost": 1,
+      "Cost": 3,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_005_Stage4",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 5,
       "type": "Leaf"
     },
@@ -522,19 +522,19 @@
     },
     {
       "Id": "Leaf_006_Stage2",
-      "Cost": 1,
+      "Cost": 2,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_006_Stage3",
-      "Cost": 1,
+      "Cost": 3,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_006_Stage4",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 5,
       "type": "Leaf"
     },
@@ -546,19 +546,19 @@
     },
     {
       "Id": "Leaf_007_Stage2",
-      "Cost": 1,
+      "Cost": 2,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_007_Stage3",
-      "Cost": 1,
+      "Cost": 3,
       "Bonus": 5,
       "type": "Leaf"
     },
     {
       "Id": "Leaf_007_Stage4",
-      "Cost": 1,
+      "Cost": 4,
       "Bonus": 5,
       "type": "Leaf"
     }
