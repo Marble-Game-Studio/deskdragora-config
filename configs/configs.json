@@ -898,7 +898,7 @@
     },
     {
       "Id": "ManaBoostCooldown",
-      "Value": 6
+      "Value": 0
     },
     {
       "Id": "TimeToFillWater",
